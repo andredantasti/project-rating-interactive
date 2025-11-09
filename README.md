@@ -84,10 +84,11 @@ git clone https://github.com/andredantasti/project-rating-interactive.git
 cd project-rating-interactive
 
 # 3. Abra o arquivo index.html no navegador
+---
 
 Escolha uma nota, clique em Submit e veja o resultado na tela de agradecimento.
 
-🔧 Melhorias Futuras
+## 🔧 Melhorias Futuras
 
 Adicionar suporte a teclado e acessibilidade (ARIA)
 
@@ -103,7 +104,7 @@ Adicionar testes automatizados com Jest/Cypress
 
 (Adicione aqui uma imagem ou GIF mostrando o projeto em funcionamento)
 
-![Preview do projeto](./images/rating.gif.gif)
+![Preview do projeto](./images/rating.gif)
 
 📚 Aprendizados
 
